@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+.same-back-color{
+    background-color: rgb(34, 31, 31);
+    height: 100;
+}
+
+#logo{
+    height: 90;
+    width: 90;
+    float: left;
+    padding-right: 760;
+    padding-left: 35;
+}
+
+#icon1{
+    padding-left: 40;
+}
+.head1{
+    text-decoration: none;
+    color: white;
+    padding-left: 20;
+    padding-top: 35;
+    float: left;
+}
+.head1:hover{
+    color: aqua;
+}
